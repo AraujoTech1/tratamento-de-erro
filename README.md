@@ -51,17 +51,14 @@ Projeto que demonstra na prática o tratamento estruturado de erros e exceções
 
 ## Pré-requisitos e Instalações
 
-### Clone o repositório e entre na pasta
+- Clone o repositório e entre na pasta
 git clone https://github.com/AraujoTech1/tratamento-de-erro.git
 cd tratamento-de-erro
-
-### Instale as dependências
+- Instale as dependências
 pip install -r requirements.txt
-
-### Execute a aplicação
+- Execute a aplicação
 python app.py
-
-### Execute os testes
+- Execute os testes
 pytest
 
 ---
@@ -71,7 +68,7 @@ pytest
 - Contribuições são bem-vindas! Para contribuir:
 - Faça um fork do projeto
 - Crie uma branch:
-git checkout -b feature/nova-feature
+  - git checkout -b feature/nova-feature
 - Faça commits claros e descritivos
 - Abra um pull request com uma boa descrição das alterações
 
