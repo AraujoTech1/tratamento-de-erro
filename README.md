@@ -39,6 +39,7 @@ Projeto que demonstra na prática o tratamento estruturado de erros e exceções
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-blue?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=flat&logo=visual-studio-code&logoColor=white)
+
 ---
 
 ## Bibliotecas e Frameworks
