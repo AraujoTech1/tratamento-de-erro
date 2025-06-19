@@ -66,10 +66,11 @@ pytest
 
 ## 🤝 Contribuição
 
-- Contribuições são bem-vindas! Para contribuir:
+Contribuições são bem-vindas!
+- Para contribuir:
 - Faça um fork do projeto
 - Crie uma branch:
-  - git checkout -b feature/nova-feature
+   - git checkout -b feature/nova-feature
 - Faça commits claros e descritivos
 - Abra um pull request com uma boa descrição das alterações
 
